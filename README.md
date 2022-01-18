@@ -4,15 +4,15 @@
 
 ### `getApplicationForm()`
 
-![getApplication](screenshots\1.jpg)
+![getApplication](https://github.com/TCHKVSKY/laika-blockchain-lab-feedback/blob/main/screenshots/1.jpg)
 
 ### `register()`
 
-![register](screenshots\2.jpg)
+![register](https://github.com/TCHKVSKY/laika-blockchain-lab-feedback/blob/main/screenshots/2.jpg)
 
 ### `status()`
 
-![status](screenshots\3.jpg)
+![status](https://github.com/TCHKVSKY/laika-blockchain-lab-feedback/blob/main/screenshots/3.jpg)
 
 ---
 
